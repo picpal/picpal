@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 목표는 1주일 중 4일 commit !!
 
 ## ⚡ Technologies
 
