@@ -1,8 +1,6 @@
-## Hi there 👋
-## 목표는 1주일 중 4일 commit !!
+## 목표는 1주일 중 4일이상 commit !!
 
-## ⚡ Technologies
-
+##✨ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
