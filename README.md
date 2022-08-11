@@ -1,4 +1,4 @@
-## 목표는 1주일 중 4일이상 commit !!
+## Front-End & Back-End Developer
 
 ## ✨ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
