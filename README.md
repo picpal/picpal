@@ -9,5 +9,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=picpal)](https://velog.io/@picpal) 
+## [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=picpal)](https://velog.io/@picpal) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=picpal)](https://github.com/picpal/velog-readme-stats)
