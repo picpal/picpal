@@ -10,3 +10,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=picpal)](https://velog.io/@picpal) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/picpal/velog-readme-stats)
