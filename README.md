@@ -1,6 +1,7 @@
 ## Front-End & Back-End Developer
 
 ## ✨ Technologies
+<img src="https://img.shields.io/badge/-JavaScript-#f22?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
