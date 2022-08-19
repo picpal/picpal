@@ -1,16 +1,17 @@
 ## Front-End & Back-End Developer
 
-## ✨ Technologies
+## ✨ Technologies ✨
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-jQuery-white?style=flat-square&logo=jQuery&logoColor=informational"/></a> &nbsp;
+<br />
+<img src="https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/-Oracle-DA1F26?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp;
 
 ## 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=picpal)](https://velog.io/@picpal) <br />
