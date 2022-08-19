@@ -1,9 +1,8 @@
 <!-- intro area -->
 <div>
   <h2 align="center">🔅 Front-End && Back-End Developer 🔅</h2>
-  <p></p>
 </div>
-
+ 
 <!-- Tech area -->
 <div>
   <p align="center"><font size="1">✎ Technologies </font></p>
