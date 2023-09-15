@@ -9,7 +9,6 @@
   <div align="center">
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
-    <img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/> &nbsp;
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-jQuery-white?style=flat-square&logo=jQuery&logoColor=informational"/> &nbsp;
