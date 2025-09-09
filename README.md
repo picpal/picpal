@@ -1,6 +1,6 @@
 <!-- intro area -->
 <div>
-  <h2 align="center">🔅 Front-End && Back-End Developer 🔅</h2>
+  <h2 align="center">🔅 Developer 🔅</h2>
 </div>
  
 <!-- Tech area -->
