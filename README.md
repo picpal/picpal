@@ -16,7 +16,6 @@
   <div align="center">
     <img src="https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
-    <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-Oracle-DA1F26?style=flat-square&logo=Oracle&logoColor=white"/> &nbsp;
   </div>
