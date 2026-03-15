@@ -23,11 +23,11 @@
 ## 
 
 <!-- blog area -->
-<div align="center">
+<!-- <div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/-Blog (from velog)-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </p>
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=picpal)](https://velog.io/@picpal/History-API-with-SPA)
-</div>
+</div> -->
 
