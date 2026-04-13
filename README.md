@@ -7,13 +7,13 @@
 <div>
   <p align="center"><font size="1">✎ Technologies </font></p>
   <div align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
+    <img src="https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp;
   </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white"/> &nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/-Oracle-DA1F26?style=flat-square&logo=Oracle&logoColor=white"/> &nbsp;
